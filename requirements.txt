@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+python-multipart
+insightface
+opencv-python
+numpy
+uuid
+chromadb
+Pillow
